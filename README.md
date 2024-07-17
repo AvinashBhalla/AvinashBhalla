@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [portfolio website](https://avinashbhalladevportfolio.42web.io/?i=1)
 
-- 🌱 I’m currently learning **Next.js , React.js**
+- 🌱 I’m currently learning **Next.js , React.js , MongoDB**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
